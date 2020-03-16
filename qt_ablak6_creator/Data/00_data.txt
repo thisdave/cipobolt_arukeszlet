@@ -1,0 +1,11 @@
+//1.sor Ez a fajl tartalmazza az osszes vasarlast
+//2.sor egy sor egy vasarlo 1 cipomeretehez tartozo vasarlasat jelenti
+//3.sor A program feldolgoza
+//4.sor Adatok:
+1 Jhonny_Cash Cash.Jhonny@gmail.com 46 Adidas_Superstar
+2 Brian_Adams adams.bryan@gmail.com 43 Adidas_Superstar
+2 Brian_Adams adams.bryan@gmail.com 43 Nike_Futo
+3 Bon_Scott bon.scott@gmail.com 42 Adidas_SuperStar
+4 Jack_Black jacky.black24@gmail.com 38 Nike_Futo
+5 Elvis_Presley presley.elvis@gmail.com 44 Adidas_Fut
+6 Angus_Young angus.young@gmail.com 41 Adidas_Futo

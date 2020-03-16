@@ -1,0 +1,8 @@
+//Ebben a fajlban vannak megadva a cipomarkak es modelljeik,
+// 2 kulcsos tabla
+//cipomodellID ar_huf
+1 Adidas_Futo 14500
+2 Adidas_Superstar 16000 
+3 Nike_Futo 15000
+4 Nike_Supernova 14000
+5 kinai_torna 1000

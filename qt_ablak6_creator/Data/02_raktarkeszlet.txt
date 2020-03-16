@@ -1,0 +1,25 @@
+//cipo_modell_id cipo_marka cipo_modell peldanyok_azonositoval
+//minden cipo sorsa lekovetheto, 
+//arazast lehessen valtoztatni
+// ar cipomodellid szerint lesz lehivhato, arat barmikor valtozathatjuk, a cipomodell idvel hivatkozunk ra
+//nem lehet ket ugyanojan idju cipo EZ a File a raktarkeszlet feltoltesehez kell.
+
+1 Adidas_Futo
+peldanyok_start:
+cipoid 0x32 meret 38 cipoid: 0x01 meret: 39 cipoid: 0x02 meret 40 cipoid 0x03 meret: 41 cipoid: 0x04 meret: 42 cipoid: 0x05 meret: 43 cipoid: 0x06 meret: 44 cipoid: 0x07_ meret: 45 cipoid: 0x08 meret: 46 cipoid: 0x09
+peldanyok_end:
+
+2 Adidas_Superstar
+peldanyok_start:
+meret: 38 cipoid: 0x11 meret: 39 cipoid: 0x12 meret: 40 cipoid: 0x13 meret: 41 cipoid: 0x14 meret: 42 cipoid: 0x15 meret: 43 cipoid: 0x16 meret: 44 cipoid: 0x17 meret: 45 cipoid: 0x18 
+peldanyok_end:
+
+3 Nike_Futo
+peldanyok_start:
+cipoid:_ 0x30 meret:_ 38 cipoid: 0x21 meret_ 39 cipoid: 0x22 meret: 40 cipoid: 0x23 meret: 41 cipoid: 0x24 meret: 42 cipoid:0x25 meret: 43 cipoid: 0x26 meret: 44- cipoid:- 0x27 meret: 45 cipoid: 0x28
+peldanyok_end:
+
+4 Nike_Supernova
+peldanyok_start:
+meret: 39 cipoid: 0x32 meret: 40 cipoid: 0x33 meret: 41 cipoid: 0x34 meret: 42 cipoid: 0x35 meret: 43 cipoid: 0x36 meret: 44 cipoid: 0x37 meret: 45 cipoid: 0x38
+peldanyok_end:
